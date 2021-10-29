@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Dosis' , sans-serif;
+}
+
+.hero{
+    width: 80%;
+    margin: auto;
+}
+.navbar{
+    margin: 30px auto;
+    display: flex;
+    align-items: center;
+}
+ ul{
+     flex: 1;
+     text-align: right;
+    
+ }
+ ul li{
+     display: inline-block;
+     list-style: none;
+ }
+ 
